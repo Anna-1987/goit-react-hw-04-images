@@ -1,0 +1,30 @@
+.input{
+    width: 240px;
+    height: 30px;
+    border-color: transparent;
+    border-radius: 4px;
+  }
+
+  .search__btn{
+    width: 120px;
+    height: 35px;
+    color:aliceblue;
+    background-color: blue;
+    border-color: transparent;
+    border-radius: 4px;
+  }
+
+  .search__form{
+    display: flex;
+    width: 100%;
+    background: darkblue;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 0 ;
+    }
+
+    .form{
+        display: flex;
+        gap: 5px;
+    }
